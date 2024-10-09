@@ -1,7 +1,7 @@
 <template>
 	<div
 		v-if="course.title"
-		class="flex flex-col h-full rounded-md shadow-md text-base overflow-auto border-2 border-yellow-500"  <!-- Added border classes -->
+		class="flex flex-col h-full rounded-md shadow-md text-base overflow-auto border-2 border-yellow-500"
 		style="min-height: 350px"
 	>
 		<div
